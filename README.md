@@ -18,7 +18,7 @@ Horizontal and Vertical Scrolling Native Scripts (Doesn't need ADB to be connect
 
 3. To start vertical or horizontal scroll depending upon usecase, run below commands.
 	For instance you want to check browser scroll , launch a webpage you wish to scroll in browser.
-	and run command-
+	
 	$ adb shell /data/local/tmp/scroll v 1920 1080 10 
 
 	- Assumed that your device resolution is 1920 1080, change the values with actual device resolution.
