@@ -1,4 +1,5 @@
-obj/local/armeabi/objs/scroll/scroll.o: jni/scroll.c \
+/home/pbathe/DTE/AndroidNativeScroll/obj/local/armeabi/objs/scroll/scroll.o: \
+ /home/pbathe/DTE/AndroidNativeScroll/jni/scroll.c \
  /home/pbathe/work/ndk/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/stdio.h \
  /home/pbathe/work/ndk/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/cdefs.h \
  /home/pbathe/work/ndk/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/cdefs_elf.h \
