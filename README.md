@@ -11,7 +11,7 @@ adb shell /data/local/scroll v/h XResolution YResolution LoopCount
 
 #Procedure:
 1. Push libs/armeabi/scroll binary to device via adb
-adb push libs/armeabi/scroll /data/local/tmp/
+	adb push libs/armeabi/scroll /data/local/tmp/
 
 2. Launch use case where you wish to scroll. 
 
